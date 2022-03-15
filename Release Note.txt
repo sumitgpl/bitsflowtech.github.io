@@ -1,0 +1,5 @@
+Release Note
+=============
+1. Rename landing.html (main folder), avatar_all.png (img\landing folder)
+2. Place Landing.html in mail folder
+3. place image files in img\landing folder
