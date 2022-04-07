@@ -6695,7 +6695,7 @@ body.landing-page {
     height: auto;
   }
   .landing-page .navbar-wrapper .navbar {
-    padding-left: 15px;
+    padding-left: 5px;
     padding-right: 5px;
   }
   .landing-page .navbar-default .navbar-nav > .active > a,
