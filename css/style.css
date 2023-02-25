@@ -69,7 +69,7 @@ h5 {
   border: 0;
 }
 .navbar-default {
-  background-color: transparent;
+  background-color: #0f4e5c;
   border-color: #2f4050;
 }
 .navbar-top-links li {
@@ -309,7 +309,7 @@ body.mini-navbar .navbar-default .nav > li > .nav-second-level li a {
   transition: all 0.5s;
 }
 .navbar-fixed-top {
-  background: #fff;
+  background: #0f4e5c;
   transition-duration: 0.5s;
   border-bottom: 1px solid #e7eaec !important;
   z-index: 2030;
@@ -6202,7 +6202,7 @@ body.landing-page {
   padding-left: 15px;
 }
 .landing-page .navbar-default.navbar-scroll {
-  background-color: #fff;
+  background-color: #0f4e5c;
   border-color: #fff;
   padding: 15px 0;
 }
@@ -6392,7 +6392,7 @@ body.landing-page {
 .landing-page .carousel-caption h1 {
   font-weight: 700;
   font-size: 38px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-shadow: none;
   letter-spacing: -1.5px;
 }
@@ -6661,7 +6661,7 @@ body.landing-page {
     margin-top: 6px;
   }
   .landing-page .navbar-default {
-    background-color: #fff;
+    background-color: #0f4e5c;
     border-color: #fff;
     padding: 15px 0;
   }
@@ -7074,7 +7074,7 @@ body.skin-1 {
   padding: 20px 30px 10px 30px;
 }
 .fixed-nav.skin-1 .navbar-fixed-top {
-  background: #fff;
+  background: #1ab394;
 }
 .skin-1 .wrapper-content {
   padding: 30px 15px;
